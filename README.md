@@ -1,7 +1,7 @@
 # react-starter
 My custom react starter kit including react with jsx, redux, webpack 2, scss, es6, module hot reloading and tiny express server 
 
-# Installation and using
+## Installation and using
 Download/copy/clone this repo to local machine or server and do
 ```
 npm i
@@ -14,7 +14,7 @@ Or in production mode (full bundling)
 ```
 npm run start-prod
 ```
-# TODO
+## TODO
 
 * Font files loading
-* `react-router` and `redux` support
+* `react-router` support
